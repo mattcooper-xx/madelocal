@@ -1,0 +1,71 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	color: #000000;
+	background-color: #ffffff;
+	width: 900px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	background-image: url(../images/header.png);
+	background-repeat: repeat-x;
+}
+
+.header {
+	width: 100%;
+	font-size: 18px;
+	color: #FFFFFF;
+	padding: 10px;
+	height: 100px;
+}
+.nav {
+	width: 100%;
+	padding: 10px;
+	color: #56892A;
+	height: 20px;
+}
+.submit {
+	width: 100%;
+	padding: 10px;
+	color: #56892A;
+	height: 20px;
+	background-color: #FFFF33;
+}
+.content {
+	width: 100%;
+	background-color: #FFFFFF;
+	padding: 10px;
+}
+.footer {
+	width: 100%;
+	background-color: #cbcbcb;
+	padding: 10px;
+	background-image: url(../images/gradient.png);
+	background-repeat: repeat-x;
+}
+.title {
+	font-size: 18px;
+	letter-spacing: -0.05em;
+	color: #56892A;
+	font-weight: bold;
+}
+a {
+	color: #0033CC;
+	text-decoration: none;
+}a:hover {
+	color: #003366;
+	text-decoration: underline;
+}
+.a_nav {
+	color: #FFFFFF;
+}
+.a_navyellow {
+	color: #FFFFFF;
+	background-color: #56892A;
+	padding: 5px;
+	border: 1px solid #FFA934;
+}
